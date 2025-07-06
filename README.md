@@ -41,4 +41,4 @@ developer-toolbox/
 
 ---
 
-Managed by Jayamuni Rashminda
+Created and maintained by Jayamuni Rashminda
