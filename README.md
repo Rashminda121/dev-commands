@@ -41,4 +41,4 @@ developer-toolbox/
 
 ---
 
-Feel free to contribute and make this toolbox even better!
+Managed by Jayamuni Rashminda
