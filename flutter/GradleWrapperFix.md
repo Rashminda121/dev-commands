@@ -102,5 +102,3 @@ flutter run
 This fixes the missing Gradle wrapper issue and cleans the Android build environment for Flutter.
 
 ---
-
-If you want me to help regenerate a correct `gradle-wrapper.properties` file or configure Gradle versions, just ask!
