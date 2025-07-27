@@ -1,4 +1,4 @@
-# 🚀 Run Flutter App with Emulator (macOS M1 Guide)
+# 🚀 Run Flutter App with Emulator
 
 This guide explains how to run a Flutter app on an Android emulator using terminal commands on a macOS system (including M1/M2 chips).
 
