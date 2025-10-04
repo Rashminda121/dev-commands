@@ -1,4 +1,4 @@
-# Senior Software Engineering Roadmap (Sep–Dec 2025)
+# Senior Software Engineering Roadmap
 
 This roadmap is designed to elevate your skills to a senior software engineering level, focusing on system design, cloud infrastructure, performance, security, and leadership. Each month builds on the previous, culminating in portfolio-ready projects and deliverables by December 31, 2025.
 
