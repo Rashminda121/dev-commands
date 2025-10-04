@@ -4,7 +4,7 @@ This roadmap is designed to elevate your skills to a senior software engineering
 
 ---
 
-## 📍 September – System Design & Core Engineering Principles
+## 📍 System Design & Core Engineering Principles
 **Focus**: Architecting scalable, fault-tolerant systems.
 
 ### Week 1: System Design Foundations
@@ -35,7 +35,7 @@ This roadmap is designed to elevate your skills to a senior software engineering
 
 ---
 
-## 📍 October – Cloud, Infrastructure, and DevOps Mastery
+## 📍 Cloud, Infrastructure, and DevOps Mastery
 **Focus**: Become cloud-native and infrastructure-savvy.
 
 ### Week 1: Cloud & Infrastructure
@@ -65,7 +65,7 @@ This roadmap is designed to elevate your skills to a senior software engineering
 
 ---
 
-## 📍 November – Data, Performance & Security
+## 📍 Data, Performance & Security
 **Focus**: Senior-level optimization and securing systems.
 
 ### Week 1: Database Internals
@@ -96,7 +96,7 @@ This roadmap is designed to elevate your skills to a senior software engineering
 
 ---
 
-## 📍 December – Leadership, Advanced Topics & Final Integration
+## 📍 Leadership, Advanced Topics & Final Integration
 **Focus**: Becoming senior beyond coding — leadership, scaling orgs, and advanced technologies.
 
 ### Week 1: Leadership & Communication
@@ -128,7 +128,7 @@ This roadmap is designed to elevate your skills to a senior software engineering
 
 ---
 
-## ✅ End of December Deliverables
+## ✅ End of Deliverables
 By December 31, 2025, you should have:
 
 - ✅ 3–4 detailed design documents for large-scale systems.
